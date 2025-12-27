@@ -1,0 +1,24 @@
+{
+  "name": "password-hashing-bcrypt",
+  "version": "1.0.0",
+  "description": "A web app to check if the user input password is valid. Used bcrypt to hash the password.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeofmahesh/password-hashing-bcrypt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeofmahesh/password-hashing-bcrypt/issues"
+  },
+  "homepage": "https://github.com/codeofmahesh/password-hashing-bcrypt#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.3"
+  }
+}
